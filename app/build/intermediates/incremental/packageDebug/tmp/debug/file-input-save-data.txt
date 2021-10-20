@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 28 07:04:07 EEST 2021
+0.baseType=DIRECTORY
+0.base=D\:\\Tetyana\\Projects\\Android\\PizzaRecipes\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

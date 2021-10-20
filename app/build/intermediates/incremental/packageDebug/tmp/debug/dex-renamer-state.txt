@@ -1,0 +1,4 @@
+#Wed Oct 20 09:39:34 EEST 2021
+base.0=D\:\\Tetyana\\Projects\\Android\\PizzaRecipes\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
